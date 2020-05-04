@@ -1,7 +1,7 @@
 ## Title: HideGroup
 ## Description: Hides your group members
 ## Author: Wheels
-## Version: 1.0
+## Version: 1.1
 ## APIVersion: 100026
 ## SavedVariables: HideGroupSavedVars
 
